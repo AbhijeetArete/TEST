@@ -1,0 +1,8 @@
+git config --global user.name
+git init
+git status
+git add .
+git commit -m "commit message"
+git remote add origin https://github.com/username/repo-name.git
+git checkout -b abhijjet->create branch name
+git push -u origin abhijeet/master/main
